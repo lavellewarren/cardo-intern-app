@@ -32,7 +32,8 @@ const Login = () => {
     <div className='w-9/20 my-auto'>
       <p className='text-4xl font-montserrat font-bold'>Sign In</p>
       <p className='text-base font-lato font-normal'>Sign in to your account</p>
-      <p className='text-base font-lato font-normal text-grey'>User: admin@cardo.com, Password: admin@cardo.com</p>
+      <p className='text-base font-lato font-normal grey'>User: admin@cardo.com</p>
+      <p className='text-base font-lato font-normal grey'>Password: admin@cardo.com</p>
       <div className='w-full my-5 flex'>
         <div className='w-1/2 flex justify-start'>
           <button className='w-11/12 flex justify-center bg-white p-2 text-xs text-secondary font-montserrat rounded-xl'>
